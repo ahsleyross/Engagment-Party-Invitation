@@ -54,7 +54,7 @@ const SETTINGS = {
   // height = how tall the clickable area is.
   linkBox: {
     x: 12,
-    y: 85,
+    y: 90,
     width: 75,
     height: 10
   }
