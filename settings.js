@@ -8,7 +8,7 @@
 const SETTINGS = {
   // Page background. You can use color names like "red", "lightpink", "lavender",
   // or hex codes like "#f8e7dc".
-  backgroundColor: "#f8e7dc",
+  backgroundColor: "#4C0000",
 
   // Image filenames. Replace front.png and back.png with your own Canva exports.
   // Keep the filenames the same unless you change them here too.
@@ -53,8 +53,8 @@ const SETTINGS = {
   // width = how wide the clickable area is.
   // height = how tall the clickable area is.
   linkBox: {
-    x: 25,
-    y: 95,
+    x: 12,
+    y: 85,
     width: 75,
     height: 10
   }
