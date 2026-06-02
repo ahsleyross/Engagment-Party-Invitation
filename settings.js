@@ -66,7 +66,7 @@ const SETTINGS = {
     {
       side: "back",
       label: "Open RSVP email",
-      url: "<a href="mailto:eallison331@://gmail.com">RSVP Here</a>",
+      url: "mailto:eallison331@://gmail.com",
       x: 20,
       y: 90,
       width: 65,
