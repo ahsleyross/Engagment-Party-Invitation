@@ -27,7 +27,7 @@ body {
 
 .invite-card {
   width: var(--card-width, min(92vw, 520px));
-  aspect-ratio: var(--card-aspect-ratio, 5 / 7);
+  aspect-ratio: var(--card-aspect-ratio, 17 / 22);
   perspective: 1200px;
   cursor: pointer;
   outline: none;
