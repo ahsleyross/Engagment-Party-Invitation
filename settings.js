@@ -21,7 +21,7 @@ const SETTINGS = {
   // Card shape. For portrait invitations, 5 / 7 works well.
   // If your Canva design is 1080 x 1920, use "9 / 16".
   // If your design is square, use "1 / 1".
-  cardAspectRatio: "5 / 7",
+  cardAspectRatio: "17 / 22",
 
   // Image fit.
   // "contain" shows the entire image without cropping.
