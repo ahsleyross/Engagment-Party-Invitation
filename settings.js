@@ -42,11 +42,11 @@ const SETTINGS = {
 
   // Link settings.
   // Put the RSVP link, registry link, wedding website, etc. here.
-  linkUrl: "https://example.com",
+  linkUrl: "https://mailto:eallison331@gmail.com",
 
   // Turn this ON while editing so you can see the clickable link box.
   // Turn this OFF before sharing the final invite.
-  showLinkBox: true,
+  showLinkBox: false,
 
   // Link box placement, measured in percentages of the card.
   // x = distance from left, y = distance from top.
